@@ -11,3 +11,4 @@ elif poengsum >= 90 and poengsum <= 100:
 else:
     print("Ikkje gyldig poengsum!")
 
+print("test")
